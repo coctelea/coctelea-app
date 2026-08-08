@@ -1,0 +1,1 @@
+import{Dn as e,Ht as t,Nt as n,Vr as r,Wr as i,r as a}from"./button-oxSl1SNC.js";var o=t({__name:`Skeleton`,props:{class:{type:[Boolean,null,String,Object,Array]}},setup(t){let o=t;return(t,s)=>(e(),n(`div`,{"data-slot":`skeleton`,class:i(r(a)(`animate-pulse rounded-md bg-primary/10`,o.class))},null,2))}});export{o as t};

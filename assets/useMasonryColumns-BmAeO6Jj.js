@@ -1,0 +1,1 @@
+import{d as e,kt as t,s as n}from"./button-oxSl1SNC.js";function r(r,i){let a=e(n),o=a.greaterOrEqual(`sm`),s=a.greaterOrEqual(`lg`),c=t(()=>s.value?3:o.value?2:1);return{columnCount:c,columns:t(()=>{let e=c.value,t=Array.from({length:e},()=>[]),n=Array(e).fill(0);for(let e of r.value){let r=n.indexOf(Math.min(...n));t[r].push(e),n[r]+=i(e)}return t})}}export{r as t};

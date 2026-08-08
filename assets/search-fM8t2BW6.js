@@ -1,1 +1,0 @@
-import{u as e}from"./badge-KAefA7kj.js";var t=e(`loader-circle`,[[`path`,{d:`M21 12a9 9 0 1 1-6.219-8.56`,key:`13zald`}]]),n=e(`search`,[[`path`,{d:`m21 21-4.34-4.34`,key:`14j7rj`}],[`circle`,{cx:`11`,cy:`11`,r:`8`,key:`4ej97u`}]]);export{t as n,n as t};
